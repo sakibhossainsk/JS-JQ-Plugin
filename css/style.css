@@ -1,0 +1,35 @@
+/*common css start*/
+.c_padd{
+	padding: 50px 0;
+}
+/*common css start*/
+
+/*counterup start*/
+.c_h2{
+	min-height: 50px;
+	background-color: red;
+	font-size: 35px;
+	font-style: italic;
+
+}
+
+/**/
+.box{
+	min-height: 100px;
+}
+
+/*wow start*/
+.wow_p{
+	font-size: 25px;
+	color: white;
+	font-style: italic;
+	text-align: center;
+
+}
+
+/*aos start*/
+
+.aos_img{
+	margin-bottom: 20px;
+}
+	
